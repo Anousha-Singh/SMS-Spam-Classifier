@@ -25,5 +25,5 @@ pip install numpy pandas matplotlib nltk scikit-learn wordcloud streamlit
 To run the app, type the following code in terminal:
 
 ```bash
-streamlit run app.py
+streamlit run App.py
 ```
